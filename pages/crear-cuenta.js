@@ -99,7 +99,7 @@ const CrearCuenta = () => {
 
             </Formulario>
         </Layout>
-    );
+    )
 }
 
 export default CrearCuenta
